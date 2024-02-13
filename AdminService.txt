@@ -1,0 +1,7 @@
+
+
+This is for admin to manage all things.
+
+add and remove users
+
+change the roles
